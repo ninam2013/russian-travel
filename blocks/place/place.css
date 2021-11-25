@@ -3,7 +3,7 @@
 	padding-top: 80px;
 	display: grid;
 	grid-template-columns: 460px 1fr;
-	grid-template-rows: auto auto;
+	grid-template-rows: 152px auto;
 	gap: 48px 40px;
 	grid-template-areas: "title website" "image text";
 	justify-content: center;
@@ -26,6 +26,7 @@
 		padding-top: 73px;
 		width: 720px;
 		grid-template-columns: 340px 1fr;
+    grid-template-rows: 92px auto;
 		gap: 48px 28px;
 	}
 }
