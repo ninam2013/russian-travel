@@ -4,6 +4,7 @@
 	font-weight: 400;
 	color: #fff;
   text-decoration-line: none;
+  list-style-type: none;
 }
 
 ul > li:not(:last-child) a {
