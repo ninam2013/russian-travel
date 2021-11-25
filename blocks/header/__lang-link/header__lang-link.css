@@ -7,7 +7,7 @@
   list-style-type: none;
 }
 
-ul > li:not(:last-child) a {
+.header__lang-links > li:not(:last-child) a {
 	margin-right: 16px;
 }
 

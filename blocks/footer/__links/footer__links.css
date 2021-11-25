@@ -5,9 +5,18 @@
 	list-style-type: none;
 }
 
+.footer__links > li:not(:last-child) {
+	margin-right: 18px;
+}
+
 @media screen and (max-width: 767px) {
 	.footer__links {
 		flex-direction: column;
 		justify-content: start;
 	}
+  .footer__links > li:not(:last-child) {
+    margin-right: 0px;
+    margin-bottom: 32px;
+  }
 }
+
