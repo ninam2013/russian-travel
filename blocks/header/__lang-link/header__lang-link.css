@@ -7,10 +7,6 @@
   list-style-type: none;
 }
 
-.header__lang-links > li:not(:last-child) a {
-	margin-right: 16px;
-}
-
 .header__lang-link:hover {
   text-decoration-line: underline;
 }
