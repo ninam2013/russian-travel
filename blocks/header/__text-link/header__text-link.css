@@ -10,6 +10,10 @@
   text-decoration-line: underline;
 }
 
+.header__lang-link:first-child .header__text-link {
+  text-decoration-line: underline;
+}
+
 @media screen and (min-width: 320px) and (max-width: 767.9px) {
 	.header__text-link {
 		font-size: 18px;
