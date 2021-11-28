@@ -1,3 +1,9 @@
 .footer__link_margin_last {
   margin-right: 0;
 }
+
+@media screen and (max-width: 767px) {
+  .footer__link_margin_last  {
+    margin-bottom: 0;
+  }
+}

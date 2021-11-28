@@ -6,9 +6,9 @@
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_last/header__lang-link_last.css);
 @import url(../blocks/header/__text-link/header__text-link.css);
 @import url(../blocks/header/__text-link/_underline/header__text-link_underline.css);
-@import url(../blocks/header/__text-link/_margin_last/header__lang-link_margin_last.css);
 @import url(../blocks/main/main.css);
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__title/lead__title.css);
