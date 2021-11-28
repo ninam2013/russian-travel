@@ -40,6 +40,6 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/footer/__link/footer__link.css);
-@import url(../blocks/footer/__link/_margin_last/footer__link_margin_last.css);
+@import url(../blocks/footer/__link/_last/footer__link_last.css);
 @import url(../blocks/footer/__text-link/footer__text-link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
